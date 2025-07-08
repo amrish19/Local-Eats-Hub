@@ -51,7 +51,7 @@ function Order() {
       text: `I would like to place an order for delivery: Delivery address: 123 Main Street, Apartment 4B, Springfield. Preferred delivery time: 7:00 PM. Contact information: ${user.$id}, You can Contact Me At ${user.email}, (123) 456-7890. Payment will be made by credit card. Thank you.`,
     };
 
-    const res = await fetch("http://localhost:4000/api/data", {
+    const res = await fetch("https://local-eats-hub.onrender.com/api/data", {
       method: "POST",
       body: JSON.stringify(data),
       headers: {
