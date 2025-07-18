@@ -3,7 +3,7 @@
 > A full-stack **Restaurant Management Web App** built with the **MERN stack**, designed for both customers and restaurant vendors.  
 > This platform enables users to browse, rate, and order from restaurants, while also allowing vendors to register and manage their own restaurant dashboards.
 
-🚀 [Live Demo](https://app.netlify.com/projects/transcendent-fairy-df80de/overview)  
+🚀 [Live Demo] (https://transcendent-fairy-df80de.netlify.app/)
 📁 [GitHub Repo](https://github.com/Aslaan001/Food-Web)
 
 ---
