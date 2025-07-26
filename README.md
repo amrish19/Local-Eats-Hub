@@ -2,9 +2,10 @@
 
 > A full-stack **Restaurant Management Web App** built with the **MERN stack**, designed for both customers and restaurant vendors.  
 > This platform enables users to browse, rate, and order from restaurants, while also allowing vendors to register and manage their own restaurant dashboards.
+> This project was developed as part of a group effort. My contributions include frontend development and deployment.
 
-🚀 [Live Demo] (https://transcendent-fairy-df80de.netlify.app/)
-📁 [GitHub Repo](https://github.com/Aslaan001/Food-Web)
+🚀 [Live Demo] (https://local-eats-hub-amrish.netlify.app)
+📁 [GitHub Repo](https://github.com/amrish19/Local-Eats-Hub.git)
 
 ---
 
